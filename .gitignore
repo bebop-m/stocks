@@ -1,0 +1,10 @@
+# Claude Code 本机权限配置，不进仓库
+.claude/settings.local.json
+# 其他 AI 工具的本机记忆
+.workbuddy/
+# 系统/编辑器垃圾
+Thumbs.db
+.DS_Store
+desktop.ini
+__pycache__/
+*.pyc
